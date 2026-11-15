@@ -1,0 +1,387 @@
+{
+  "timezone": "Europe/Madrid",
+  "lastVerified": "2026-11-15",
+  "events": [
+    {
+      "id": "dojo-2026-01-17",
+      "title": {
+        "ca": "Dojo · partides de shogi",
+        "es": "Dojo · partidas de shogi"
+      },
+      "date": "2026-01-17",
+      "month": "2026-01",
+      "type": "dojo",
+      "location": "Casinet d’Hostafrancs · sala 3",
+      "start": "12:00",
+      "end": "14:00",
+      "source": "https://www.instagram.com/shoginokokoro/",
+      "sourceLabel": {
+        "ca": "Publicació de referència",
+        "es": "Publicación de referencia"
+      },
+      "notice": {
+        "ca": "Data del calendari publicat el gener de 2026; no acredita per si sola la celebració efectiva.",
+        "es": "Fecha del calendario publicado en enero de 2026; no acredita por sí sola su celebración efectiva."
+      },
+      "status": "published",
+      "lastVerified": "2026-11-15"
+    },
+    {
+      "id": "dojo-2026-02-07",
+      "title": {
+        "ca": "Dojo · partides de shogi",
+        "es": "Dojo · partidas de shogi"
+      },
+      "date": "2026-02-07",
+      "month": "2026-02",
+      "type": "dojo",
+      "location": "Casinet d’Hostafrancs · sala 3",
+      "start": "12:00",
+      "end": "14:00",
+      "source": "https://www.instagram.com/shoginokokoro/",
+      "sourceLabel": {
+        "ca": "Publicació de referència",
+        "es": "Publicación de referencia"
+      },
+      "notice": {
+        "ca": "Data del calendari publicat el gener de 2026; no acredita per si sola la celebració efectiva.",
+        "es": "Fecha del calendario publicado en enero de 2026; no acredita por sí sola su celebración efectiva."
+      },
+      "status": "published",
+      "lastVerified": "2026-11-15"
+    },
+    {
+      "id": "dojo-2026-03-07",
+      "title": {
+        "ca": "Dojo · partides de shogi",
+        "es": "Dojo · partidas de shogi"
+      },
+      "date": "2026-03-07",
+      "month": "2026-03",
+      "type": "dojo",
+      "location": "Casinet d’Hostafrancs · sala 3",
+      "start": "12:00",
+      "end": "14:00",
+      "source": "https://www.instagram.com/shoginokokoro/",
+      "sourceLabel": {
+        "ca": "Publicació de referència",
+        "es": "Publicación de referencia"
+      },
+      "notice": {
+        "ca": "Data del calendari publicat el gener de 2026; no acredita per si sola la celebració efectiva.",
+        "es": "Fecha del calendario publicado en enero de 2026; no acredita por sí sola su celebración efectiva."
+      },
+      "status": "published",
+      "lastVerified": "2026-11-15"
+    },
+    {
+      "id": "dojo-2026-04-11",
+      "title": {
+        "ca": "Dojo · partides de shogi",
+        "es": "Dojo · partidas de shogi"
+      },
+      "date": "2026-04-11",
+      "month": "2026-04",
+      "type": "dojo",
+      "location": "Casinet d’Hostafrancs · sala 3",
+      "start": "12:00",
+      "end": "14:00",
+      "source": "https://www.instagram.com/shoginokokoro/",
+      "sourceLabel": {
+        "ca": "Publicació de referència",
+        "es": "Publicación de referencia"
+      },
+      "notice": {
+        "ca": "Data del calendari publicat el gener de 2026; no acredita per si sola la celebració efectiva.",
+        "es": "Fecha del calendario publicado en enero de 2026; no acredita por sí sola su celebración efectiva."
+      },
+      "status": "published",
+      "lastVerified": "2026-11-15"
+    },
+    {
+      "id": "dojo-2026-05-30",
+      "title": {
+        "ca": "Dojo · partides de shogi",
+        "es": "Dojo · partidas de shogi"
+      },
+      "date": "2026-05-30",
+      "month": "2026-05",
+      "type": "dojo",
+      "location": "Casinet d’Hostafrancs · sala 3",
+      "start": "12:00",
+      "end": "14:00",
+      "source": "https://www.instagram.com/shoginokokoro/",
+      "sourceLabel": {
+        "ca": "Publicació de referència",
+        "es": "Publicación de referencia"
+      },
+      "notice": {
+        "ca": "Data del calendari publicat el gener de 2026; no acredita per si sola la celebració efectiva.",
+        "es": "Fecha del calendario publicado en enero de 2026; no acredita por sí sola su celebración efectiva."
+      },
+      "status": "published",
+      "lastVerified": "2026-11-15"
+    },
+    {
+      "id": "dojo-2026-06-13",
+      "title": {
+        "ca": "Dojo · partides de shogi",
+        "es": "Dojo · partidas de shogi"
+      },
+      "date": "2026-06-13",
+      "month": "2026-06",
+      "type": "dojo",
+      "location": "Casinet d’Hostafrancs · sala 3",
+      "start": "12:00",
+      "end": "14:00",
+      "source": "https://www.instagram.com/shoginokokoro/",
+      "sourceLabel": {
+        "ca": "Publicació de referència",
+        "es": "Publicación de referencia"
+      },
+      "notice": {
+        "ca": "Data del calendari publicat el gener de 2026; no acredita per si sola la celebració efectiva.",
+        "es": "Fecha del calendario publicado en enero de 2026; no acredita por sí sola su celebración efectiva."
+      },
+      "status": "published",
+      "lastVerified": "2026-11-15"
+    },
+    {
+      "id": "dojo-2026-07-04",
+      "title": {
+        "ca": "Dojo · partides de shogi",
+        "es": "Dojo · partidas de shogi"
+      },
+      "date": "2026-07-04",
+      "month": "2026-07",
+      "type": "dojo",
+      "location": "Casinet d’Hostafrancs · sala 3",
+      "start": "12:00",
+      "end": "14:00",
+      "source": "https://www.instagram.com/shoginokokoro/",
+      "sourceLabel": {
+        "ca": "Publicació de referència",
+        "es": "Publicación de referencia"
+      },
+      "notice": {
+        "ca": "Data del calendari publicat el gener de 2026; no acredita per si sola la celebració efectiva.",
+        "es": "Fecha del calendario publicado en enero de 2026; no acredita por sí sola su celebración efectiva."
+      },
+      "status": "published",
+      "lastVerified": "2026-11-15"
+    },
+    {
+      "id": "dojo-2026-09-05",
+      "title": {
+        "ca": "Dojo · partides de shogi",
+        "es": "Dojo · partidas de shogi"
+      },
+      "date": "2026-09-05",
+      "month": "2026-09",
+      "type": "dojo",
+      "location": "Casinet d’Hostafrancs · sala 3",
+      "start": "12:00",
+      "end": "14:00",
+      "source": "https://shogi.es/calendario/",
+      "sourceLabel": {
+        "ca": "Publicació de referència",
+        "es": "Publicación de referencia"
+      },
+      "notice": {
+        "ca": "Data del calendari publicat el gener de 2026; no acredita per si sola la celebració efectiva.",
+        "es": "Fecha del calendario publicado en enero de 2026; no acredita por sí sola su celebración efectiva."
+      },
+      "status": "published",
+      "lastVerified": "2026-11-15"
+    },
+    {
+      "id": "dojo-2026-10-03",
+      "title": {
+        "ca": "Dojo · partides de shogi",
+        "es": "Dojo · partidas de shogi"
+      },
+      "date": "2026-10-03",
+      "month": "2026-10",
+      "type": "dojo",
+      "location": "Casinet d’Hostafrancs · sala 3",
+      "start": "12:00",
+      "end": "14:00",
+      "source": "https://shogi.es/calendario/",
+      "sourceLabel": {
+        "ca": "Publicació de referència",
+        "es": "Publicación de referencia"
+      },
+      "notice": {
+        "ca": "Data del calendari publicat el gener de 2026; no acredita per si sola la celebració efectiva.",
+        "es": "Fecha del calendario publicado en enero de 2026; no acredita por sí sola su celebración efectiva."
+      },
+      "status": "published",
+      "lastVerified": "2026-11-15"
+    },
+    {
+      "id": "dojo-2026-11-07",
+      "title": {
+        "ca": "Dojo · partides de shogi",
+        "es": "Dojo · partidas de shogi"
+      },
+      "date": "2026-11-07",
+      "month": "2026-11",
+      "type": "dojo",
+      "location": "Casinet d’Hostafrancs · sala 3",
+      "start": "12:00",
+      "end": "14:00",
+      "source": "https://shogi.es/calendario/",
+      "sourceLabel": {
+        "ca": "Publicació de referència",
+        "es": "Publicación de referencia"
+      },
+      "notice": {
+        "ca": "El calendari oficial manté aquesta data, però una captura posterior anuncia que el dissabte anterior no es va obrir. La sessió pot haver canviat; no es presenta com a celebració confirmada.",
+        "es": "El calendario oficial mantiene esta fecha, pero una captura posterior anuncia que el sábado anterior no se abrió. La sesión puede haber cambiado; no se presenta como celebración confirmada."
+      },
+      "status": "published",
+      "lastVerified": "2026-11-15"
+    },
+    {
+      "id": "novembre-avis",
+      "title": {
+        "ca": "Avís de nova sessió de novembre",
+        "es": "Aviso de nueva sesión de noviembre"
+      },
+      "date": null,
+      "month": "2026-11",
+      "type": "dojo",
+      "location": "Casinet d’Hostafrancs · sala 3",
+      "start": "12:00",
+      "end": "14:00",
+      "source": "https://www.instagram.com/shoginokokoro/",
+      "sourceLabel": {
+        "ca": "Publicació de referència",
+        "es": "Publicación de referencia"
+      },
+      "notice": {
+        "ca": "La captura aportada diu «aquest dissabte» i mostra «fa 3 dies», però no una data absoluta. Cal confirmar el dia amb l’associació.",
+        "es": "La captura aportada dice «este sábado» y muestra «hace 3 días», pero no una fecha absoluta. Hay que confirmar el día con la asociación."
+      },
+      "status": "pending",
+      "lastVerified": "2026-11-15"
+    },
+    {
+      "id": "sakura-2026",
+      "title": {
+        "ca": "Sakura Fest · espai de shogi",
+        "es": "Sakura Fest · espacio de shogi"
+      },
+      "date": "2026-03-29",
+      "month": "2026-03",
+      "type": "festival",
+      "location": "Jardí del Museu · Gavà",
+      "start": "10:00",
+      "end": "14:00",
+      "source": "https://www.instagram.com/shoginokokoro/",
+      "sourceLabel": {
+        "ca": "Publicació de referència",
+        "es": "Publicación de referencia"
+      },
+      "notice": null,
+      "status": "published",
+      "lastVerified": "2026-11-15"
+    },
+    {
+      "id": "kyoto-2026",
+      "title": {
+        "ca": "Kyoto Academy · taller de shogi",
+        "es": "Kyoto Academy · taller de shogi"
+      },
+      "date": "2026-04-25",
+      "month": "2026-04",
+      "type": "workshop",
+      "location": "Manresa",
+      "start": "10:30",
+      "end": null,
+      "source": "https://www.instagram.com/shoginokokoro/",
+      "sourceLabel": {
+        "ca": "Publicació de referència",
+        "es": "Publicación de referencia"
+      },
+      "notice": null,
+      "status": "published",
+      "lastVerified": "2026-11-15"
+    },
+    {
+      "id": "bunka-2026",
+      "title": {
+        "ca": "Bunka Party · cultura japonesa",
+        "es": "Bunka Party · cultura japonesa"
+      },
+      "date": "2026-06-20",
+      "month": "2026-06",
+      "type": "festival",
+      "location": {
+        "ca": "Ubicació al programa de l’organització",
+        "es": "Ubicación en el programa de la organización"
+      },
+      "start": "16:00",
+      "end": "19:30",
+      "source": "https://www.instagram.com/shoginokokoro/",
+      "sourceLabel": {
+        "ca": "Publicació de referència",
+        "es": "Publicación de referencia"
+      },
+      "notice": {
+        "ca": "Horari general del festival. La captura no mostra la franja específica de shogi.",
+        "es": "Horario general del festival. La captura no muestra la franja específica de shogi."
+      },
+      "status": "published",
+      "lastVerified": "2026-11-15"
+    },
+    {
+      "id": "shogi-matsuri-2026",
+      "title": {
+        "ca": "Shogi Matsuri",
+        "es": "Shogi Matsuri"
+      },
+      "date": "2026-10-24",
+      "month": "2026-10",
+      "type": "festival",
+      "location": "Cotxeres de Sants · Barcelona",
+      "start": "10:00",
+      "end": "20:00",
+      "source": "https://www.instagram.com/shoginokokoro/",
+      "sourceLabel": {
+        "ca": "Publicació de referència",
+        "es": "Publicación de referencia"
+      },
+      "notice": {
+        "ca": "Programa: puzles 10–12 h, partides cooperatives 12–14 h i variants 17–20 h. L’any es contextualitza amb les captures de 2026.",
+        "es": "Programa: puzles 10–12 h, partidas cooperativas 12–14 h y variantes 17–20 h. El año se contextualiza con las capturas de 2026."
+      },
+      "status": "published",
+      "lastVerified": "2026-11-15"
+    },
+    {
+      "id": "can-fabra-2025",
+      "title": {
+        "ca": "Can Fabra Joc & Rol",
+        "es": "Can Fabra Joc & Rol"
+      },
+      "date": "2025-11-29",
+      "month": "2025-11",
+      "type": "festival",
+      "location": "Biblioteca Ignasi Iglésias – Can Fabra",
+      "start": "10:30",
+      "end": "20:00",
+      "source": "https://www.instagram.com/shoginokokoro/",
+      "sourceLabel": {
+        "ca": "Publicació de referència",
+        "es": "Publicación de referencia"
+      },
+      "notice": {
+        "ca": "Horari del festival: 10.30–14 h i 16–20 h. Publicació compartida; l’horari concret del shogi no consta.",
+        "es": "Horario del festival: 10:30–14 h y 16–20 h. Publicación compartida; el horario concreto del shogi no consta."
+      },
+      "status": "published",
+      "lastVerified": "2026-11-15"
+    }
+  ]
+}
